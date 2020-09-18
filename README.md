@@ -1,3 +1,8 @@
+If you are looking for the original Handshake check out https://handshake.org/
+
+This fork was created for experimentation with Handshake to provide for a product grade implementation and to provide for a means to actualize it in tandum with domain name purchases, ssl certifications
+
+
 # HSD
 
 [![Build Status][ci-status-img]][ci-status-url]
